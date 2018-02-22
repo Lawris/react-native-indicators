@@ -41,7 +41,7 @@ import {
   PacmanIndicator,
   PulseIndicator,
   SkypeIndicator,
-  UIActivityIndicator
+  UIActivityIndicator,
   WaveIndicator,
 } from 'react-native-indicators';
 
